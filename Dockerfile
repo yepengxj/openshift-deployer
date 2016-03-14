@@ -1,2 +1,2 @@
 # openshift-deployer
-FROM openshift/origin-pod:v1.1.3
+FROM openshift/origin-deployer:v1.1.3
